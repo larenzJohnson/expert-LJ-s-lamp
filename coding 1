@@ -1,0 +1,7 @@
+properties are bits of info associated with an object, fucntions are what they can do
+every fucntion must have the keyword func, after every function use brackets. (Brackets always come in pairs)
+Be consistend with your functions (func)
+everything is an object.
+a string function means text
+a int fucnion means number
+use te arrow sign (->) whn adding, subtracting and multiplying
